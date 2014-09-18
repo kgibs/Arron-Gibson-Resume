@@ -9,6 +9,7 @@ root: ./
   * May 2014 - Present
   * Responsible for the creation and development of all websites for a world class design and branding agency.
   * Accomplishments:
+    * Headed up the first totally digital branch of the company
     * Custom CMS setups for client sites for such disparate needs as a [boutique travel company](http://trufflepig.com) and a [global movement to end violence against women and girls](http://onebillionrising.org)
 * Shaw Media - Web Developer
   * October 2008 - May 2014
