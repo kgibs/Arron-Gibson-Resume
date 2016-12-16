@@ -11,6 +11,16 @@ root: ./
   * Accomplishments:
     * Headed up the first totally digital branch of the company
     * Custom CMS setups for client sites for such disparate needs as a [boutique travel company](http://trufflepig.com) and a [global movement to end violence against women and girls](http://onebillionrising.org)
+  * Technologies
+    * HTML
+    * CSS / SASS
+    * Javascript
+    * jQuery
+    * PHP
+    * WordPress
+    * SVG 
+    * Node JS
+    * Gulp / Grunt
 * [Ladies Learning Code](http://ladieslearningcode.com) - **Instructor & Mentor** 
   * ```August 2014 - Present```
     * Volunteer Position
@@ -29,6 +39,18 @@ root: ./
     * Created a '*Contest Engine*' capable of allowing non-technical users to go from a PhotoShop mock to a working, pixel perfect contest microsite in 30 minutes without writing a single line of code.
       * Built on WordPress using an auto-scaling Amazon EC2 deployment paradigm.
       * Editors or marketers use an intelligently designed interface to control all aspects of the campaign from menu items and rules and regulations to Facebook and Twitter sharing settings and beyond.
+  * Technologies
+    * HTML
+    * CSS / SASS
+    * Javascript
+    * jQuery
+    * PHP
+    * WordPress
+    * .NET
+    * Amazon S3 / Amazon EC2
+    * XSLT
+    * Custom Enterprise CMS
+    * Ektron
 * [Infinity Media Services](http://infinitymedia.ca) - **President and Chief Technical Officer**
   * ```2002 - Present```
   * Run and manage a full service web development agency
