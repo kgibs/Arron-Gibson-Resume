@@ -16,10 +16,10 @@ root: ./
     * Set direction for tooling and technical choices
     * Commit high quality code to all projects
     * Provide code reviews for teammates
-    * Manage all IT and Digital Infrastructure
-    * Ensure basic SEO best practices used on all projects
-    * Ensure **AODA WCAG 2.0 Level A** compliance on all projects
-    * Perform Quality Assurance testing for each project on a wide range of supported platforms
+    * Manage all `IT` and `Digital Infrastructure`
+    * Ensure basic `SEO` best practices used on all projects
+    * Ensure `AODA WCAG 2.0 Level A` compliance on all projects
+    * Perform `Quality Assurance` testing for each project on a wide range of supported platforms
   * Technologies:
     * HTML
     * CSS / SASS
