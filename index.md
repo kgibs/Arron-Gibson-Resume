@@ -97,6 +97,8 @@ root: ./
       * Websockets
       * Canvas
       * HTML5 Video and Audio
+      * GeoLocation API
+      * Device Orientation API
   * <acronym title="Cascading StyleSheets">CSS</acronym>
     * SASS
     * Bootstrap
