@@ -37,7 +37,7 @@ root: ./
     * Volunteer Position
   * Accomplishments:
     * Spearheaded, authored and ran the first ever [jQuery workshop](http://infn8.github.io/LLC-Intro-To-jQuery/#slide1) for the organisation
-    * Integrated slide deck with features using [```HTML5 Websockets```](http://www.html5rocks.com/en/tutorials/websockets/basics/) that allow learners to provide real time anonymous feedback as well as to stay in sync with the position of the instructor's slides on their own machine. 
+    * Integrated slide deck with features using [`HTML5 Websockets`](http://www.html5rocks.com/en/tutorials/websockets/basics/) that allow learners to provide real time anonymous feedback as well as to stay in sync with the position of the instructor's slides on their own machine. 
 * [Shaw Media](http://shawmedia.ca) - **Web Developer**
   * ```October 2008 - May 2014```
   * Specialized in efficient cross-browser compatible HTML, CSS and JavaScript.
@@ -47,7 +47,7 @@ root: ./
     * Launched [TopChefCanada.ca](http://TopChefCanada.ca)
       * Delivered a fully CMS driven experience capable of managing all aspects of the site despite being required to use an in-house solution that was very limited.
     * Championed the use of WordPress as an enterprise level tool
-    * Created a '*Contest Engine*' capable of allowing non-technical users to go from a PhotoShop mock to a working, pixel perfect contest microsite in 30 minutes without writing a single line of code.
+    * Created a '`Contest Engine`' capable of allowing non-technical users to go from a PhotoShop mock to a working, pixel perfect contest microsite in 30 minutes without writing a single line of code.
       * Built on WordPress using an auto-scaling Amazon EC2 deployment paradigm.
       * Editors or marketers use an intelligently designed interface to control all aspects of the campaign from menu items and rules and regulations to Facebook and Twitter sharing settings and beyond.
   * Technologies
