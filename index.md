@@ -11,7 +11,16 @@ root: ./
   * Accomplishments:
     * Headed up the first totally digital branch of the company
     * Custom CMS setups for client sites for such disparate needs as a [boutique travel company](http://trufflepig.com) and a [global movement to end violence against women and girls](http://onebillionrising.org)
-  * Technologies
+  * Responsibilities:
+    * Manager and senior member of development team
+    * Set direction for tooling and technical choices
+    * Commit high quality code to all projects
+    * Provide code reviews for teammates
+    * Manage all IT and Digital Infrastructure
+    * Ensure basic SEO best practices used on all projects
+    * Ensure **AODA WCAG 2.0 Level A** compliance on all projects
+    * Perform Quality Assurance testing for each project on a wide range of supported platforms
+  * Technologies:
     * HTML
     * CSS / SASS
     * Javascript
@@ -19,7 +28,9 @@ root: ./
     * PHP
     * WordPress
     * SVG 
+    * Canvas
     * Node JS
+    * WebSockets
     * Gulp / Grunt
 * [Ladies Learning Code](http://ladieslearningcode.com) - **Instructor & Mentor** 
   * ```August 2014 - Present```
